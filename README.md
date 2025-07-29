@@ -1,4 +1,7 @@
-Olá! ================================================================= ================================================================== Estudante de 17 anos cursando o Ensino Médio e Técnico em Informática na Fundação IENH. Tenho conhecimentos práticos em HTML e CSS (nível intermediário), além de noções de JavaScript, Java, Python e banco de dados com MySQL. Sou proativo, comunicativo e busco aplicar meus conhecimentos técnicos em ambientes reais. Tenho experiência prática em desenvolvimento de sites, participação em projetos integradores e eventos como Hackathon, que fortalecem minha postura profissional e espírito de equipe. * ✉️ Você pode entrar em contato comigo em [nikolasrodrigues016@gmail.com](mailto:nikolasrodrigues016@gmail.com) * 🧠 Estou aprendendo mais sobre Back-end e Front-end (Java, Python, HTML, CSS e javaScript).
+Olá! ================================================================= ================================================================== 
+Estudante de 17 anos cursando o Ensino Médio e Técnico em Informática na Fundação IENH. Tenho conhecimentos práticos em HTML e CSS (nível intermediário), além de noções de JavaScript, Java, Python e banco de dados com MySQL. Sou proativo, comunicativo e busco aplicar meus conhecimentos técnicos em ambientes reais. Tenho experiência prática em desenvolvimento de sites, participação em projetos integradores e eventos como Hackathon, que fortalecem minha postura profissional e espírito de equipe. 
+* ✉️ Você pode entrar em contato comigo em [nikolasrodrigues016@gmail.com](mailto:nikolasrodrigues016@gmail.com)
+* * 🧠 Estou aprendendo mais sobre Back-end e Front-end (Java, Python, HTML, CSS e javaScript).
 
 ### Habilidades
 
